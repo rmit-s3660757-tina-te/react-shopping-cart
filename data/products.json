@@ -3,7 +3,7 @@
     {
       "id": 12,
       "sku": 12064273040195392,
-      "title": "Cat Tee Black T-Shirt",
+      "title": "Test Cat Tee Black T-Shirt",
       "description": "4 MSL",
       "availableSizes": ["S", "XS"],
       "style": "Black with custom print",
@@ -17,7 +17,7 @@
     {
       "id": 13,
       "sku": 51498472915966366,
-      "title": "Dark Thug Blue-Navy T-Shirt",
+      "title": "Test Dark Thug Blue-Navy T-Shirt",
       "description": "",
       "availableSizes": ["M"],
       "style": "Front print and paisley print",
@@ -31,7 +31,7 @@
     {
       "id": 14,
       "sku": 10686354557628303,
-      "title": "Sphynx Tie Dye Wine T-Shirt",
+      "title": "Test Sphynx Tie Dye Wine T-Shirt",
       "description": "GPX Poly 1",
       "availableSizes": ["X", "L", "XL"],
       "style": "Front tie dye print",
